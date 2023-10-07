@@ -3,8 +3,8 @@ Homework 5 for FinTech Bootcamp
 
 This problem was relatively straightforward.
 
-I will note that I updated MCForecastTools.py for the deprecation of pd.Series.append() in Pandas 2.0. See [Deprecate Series / DataFrame.append #35407](https://github.com/pandas-dev/pandas/issues/35407)).
-My solution for this issue was to modify the stats series to a Dataframe and use pd.Concat()
+I will note that I updated MCForecastTools.py for the deprecation of pd.Series.append() in Pandas 2.0. See [Deprecate Series / DataFrame.append #35407](https://github.com/pandas-dev/pandas/issues/35407).
+My solution for this issue was to modify the stats series to a Dataframe and use pd.Concat().
 
 
 # Unit 5 - Financial Planning
